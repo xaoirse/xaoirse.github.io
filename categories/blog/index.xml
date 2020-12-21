@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Million Lines Of Code</title>
+    <link>https://xaoirse.github.io/categories/blog/</link>
+    <description>Recent content in Blog on Million Lines Of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xaoirse.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://xaoirse.github.io/posts/2020-07-05-hello-world/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xaoirse.github.io/posts/2020-07-05-hello-world/</guid>
+      <description>سلام
+این وبلاگ و با جکیل و تم هاید درست شده یعنی همونا با یه خورده تغییرات، مثلا دسته بندی ها و مرتب سازی بر اساس تاریخ رو اضافه کردم. کدش هم توی گیتهابم هست.
+و توش قراه چیزایی باشه که تو خود گیتهاب ریپازیتوری ها جا نمیشه &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Million Lines Of Code</title>
+    <link>https://xaoirse.github.io/posts/</link>
+    <description>Recent content in Posts on Million Lines Of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xaoirse.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://xaoirse.github.io/posts/2020-07-05-hello-world/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xaoirse.github.io/posts/2020-07-05-hello-world/</guid>
+      <description>سلام
+این وبلاگ و با جکیل و تم هاید درست شده یعنی همونا با یه خورده تغییرات، مثلا دسته بندی ها و مرتب سازی بر اساس تاریخ رو اضافه کردم. کدش هم توی گیتهابم هست.
+و توش قراه چیزایی باشه که تو خود گیتهاب ریپازیتوری ها جا نمیشه &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Go Graphql ORM</title>
+      <link>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm/</guid>
+      <description>سلام. پروژه XGO ترکیب چندتا چیز با هم هست که یه وب اپ ساده و سر راست باشه و خواستم یه جورایی شبیه به Django باشه. یعنی بیاین مدلاتونو تعریف کنید و روتینگ کنید و توابعتونو بنویسید و تمام! حالا یه وب اپلیکیشن تقریبا کامل دارید.حالا کدتونو هر کجا خواستید اجرا میکنید
+به دلایلی مثل علاقه به زبون GO و اینکه یه فایل باینری از پروژم داشته باشم که هرجا خواستم اجراش کنم دنبال یه چیزی شبیهش تو فرمورک های Go میگشتم.</description>
+    </item>
+    
+    <item>
+      <title>Delete Me</title>
+      <link>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm-copy-1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm-copy-1/</guid>
+      <description>سلام. پروژه XGO ترکیب چندتا چیز با هم هست که یه وب اپ ساده و سر راست باشه و خواستم یه جورایی شبیه به Django باشه. یعنی بیاین مدلاتونو تعریف کنید و روتینگ کنید و توابعتونو بنویسید و تمام! حالا یه وب اپلیکیشن تقریبا کامل دارید.حالا کدتونو هر کجا خواستید اجرا میکنید
+به دلایلی مثل علاقه به زبون GO و اینکه یه فایل باینری از پروژم داشته باشم که هرجا خواستم اجراش کنم دنبال یه چیزی شبیهش تو فرمورک های Go میگشتم.</description>
+    </item>
+    
+  </channel>
+</rss>

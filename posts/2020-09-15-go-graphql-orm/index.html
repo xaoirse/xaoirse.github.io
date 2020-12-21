@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.80.0-DEV" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Go Graphql ORM &middot; Million Lines Of Code</title>
+  <meta name="description" content="" />
+
+  
+  <link type="text/css" rel="stylesheet" href="https://xaoirse.github.iocss/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://xaoirse.github.iocss/poole.css">
+  <link type="text/css" rel="stylesheet" href="https://xaoirse.github.iocss/syntax.css">
+  <link type="text/css" rel="stylesheet" href="https://xaoirse.github.iocss/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+  <link rel="stylesheet" href="/static/css/Vazir.woff">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  
+</head>
+
+  <body style="background-color: #e1e1db;" class=" ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="https://xaoirse.github.io"><h1>Million Lines Of Code</h1></a>
+      <p class="lead">
+      My only site
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a class="sidebar-nav-item" href="https://xaoirse.github.io">Home</a> </li>
+        <li><a class="sidebar-nav-item" href="/about/"> About </a></li><li><a class="sidebar-nav-item" href="/categories/"> Categories </a></li><li><a class="sidebar-nav-item" href="https://github.com/xaoirse/"> Github </a></li>
+      </ul>
+    </nav>
+
+    <p>&copy; 2020. All rights reserved. </p>
+  </div>
+</aside>
+
+  
+    <main class="content container">
+    
+    
+<a href="/categories/">Code</a>
+
+<div class="post" dir="rtl">
+  <h1>Go Graphql ORM</h1>
+  <time datetime=2020-05-05T00:00:00Z class="post-date">Tue, May 5, 2020</time>
+  <p>سلام.
+پروژه XGO ترکیب چندتا چیز با هم هست که یه وب اپ ساده و سر راست باشه و خواستم یه جورایی شبیه به Django باشه. یعنی بیاین مدلاتونو تعریف کنید و روتینگ کنید و توابعتونو بنویسید و تمام! حالا یه وب اپلیکیشن تقریبا کامل دارید.حالا کدتونو هر کجا خواستید اجرا میکنید<br>
+به دلایلی مثل علاقه به زبون GO و اینکه یه فایل باینری از پروژم داشته باشم که هرجا خواستم اجراش کنم دنبال یه چیزی شبیهش تو فرمورک های Go میگشتم. فرمورک های زیادی هستن برای Go حتی با Go بدون فرم ورک هم میتونید یه وب سرور بسازید ولی من میخاستم یه چیزی مثل جنگو باشه. وگرنه باید روتینگتونو دستی چک کنید یا دیتابیستونو خودتونو با query های sql بنویسید و مایگریشن و همه چیش دست خودتونه ولی خب چیزای ساده تری هستن برا این کارا مثل ORM ها که Gorm برای گو هست. یه فرمورک سبک هم Echo رو گذاشتم هرچند فرمورک هایی مثل Beego هم خودشون ORM دارن ولی من gorm با echo رو ترجیح دادم (مقایسشون اضافه بشه).<br>
+دلم میخواست با گراف کیو ال هم کار کنم تا فرایند ریکوئشت دادن ها تا حد زیادی ساده تر بشه و یه عالمه اند پوینت تعریف نکنم. بین  فرمورک هایی که گراف رو برای گو پیاده کردند gqlgen رو انتخاب کردم. چرا؟<br>
+چون که میاد از روی اسکیمایی که تعریف میکنیم مدلای گو رو میسازه (توضیخات ببیشتر با شکل) بعدش میشه با پلاگین یا هوک بهشون تگ ها و فیلد های Gorm رو اضافه کرد تا مستقیم همونارو برای ORMمون استفاده کنیم.<br>
+خیلی دنبال یه همچین چیزی گشتم که پیاده شده باشه از قبل ولی خب پیدا نکردم. هرکی Gorm رو با GraphQL استفاده کرده دوبار مدلاشو تعریف کرده یه بار برای گراف یه بار ORMش.<br>
+حالا من اینارو کنار هم گذاشتم و پلاگین و هوک های لازمشو نوشتم تا فقط کافی باشه مدلاتونو توی اسکیما تعریف کنید و  جنریت کنید تا مدلاتون یه جوری ساخته بشه که هم برای GraphQl هم برای Gorm قابل استفاده باشه.<br>
+حالا کافیه فقط Mutation هارو بنویسید و تموم در عرض چند دقیقه به لطف gqlgen و gorm یه وب سرور با یه دیتابیس متصل بهش دارید و به لطف گو میتونید یه فایل اجرایی داشته باشید که هرجا خواستید همونو اجرا کنید ( اگه جنگو بود باید قبلش یه عالمه نصب پایتون و پیپ و پکیجای مورد نیازو کانفیگای دیگشو میداشتید).<br>
+(مقایسه gqlgen با بقیه)
+مورد دیگه ای هم که پلاگینش اضافه شده نوشتن فیلد های many2many هست که اینم خودکار تگ مناسبش اضافه بشه. فقط باید توجه کنید که هردو مدلتون رو که توی اسکیما تعریف میکنید به صورت آرایه باشه تا تگ های many2many درست باشن. بعدا هم به پروژه این اضافه بشه که بین many2many با has_many تفاوت قایل بشه.
+چیزایی که مونده فک کنم اگه از go:generate استفاده کنم شاید بهتر باشه شایدم نباشه همینطوری پروژه کلون بشه بعد با find and replace اسم ماژول عوض بشه!</p>
+
+</div>
+
+
+    </main>
+
+    
+      
+    
+  </body>
+</html>
