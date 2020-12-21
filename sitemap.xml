@@ -4,26 +4,31 @@
   
   <url>
     <loc>https://xaoirse.github.io/categories/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-22T01:47:34+03:30</lastmod>
   </url>
   
   <url>
     <loc>https://xaoirse.github.io/categories/code/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-22T01:47:34+03:30</lastmod>
   </url>
   
   <url>
-    <loc>https://xaoirse.github.io/posts/go-graphql-orm/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <loc>https://xaoirse.github.io/posts/hugo/</loc>
+    <lastmod>2020-12-22T01:47:34+03:30</lastmod>
   </url>
   
   <url>
     <loc>https://xaoirse.github.io/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-22T01:47:34+03:30</lastmod>
   </url>
   
   <url>
     <loc>https://xaoirse.github.io/posts/</loc>
+    <lastmod>2020-12-22T01:47:34+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xaoirse.github.io/posts/go-graphql-orm/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,16 @@
     <description>Recent content on Million Lines Of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xaoirse.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 01:47:34 +0330</lastBuildDate><atom:link href="https://xaoirse.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://xaoirse.github.io/posts/hugo/</link>
+      <pubDate>Tue, 22 Dec 2020 01:47:34 +0330</pubDate>
+      
+      <guid>https://xaoirse.github.io/posts/hugo/</guid>
+      <description>خب یه تغییر اساسی و بسیار وقت گیر از jekyll به hugo اینجا قراره دربارش نوشته بشه.</description>
+    </item>
+    
     <item>
       <title>Go Graphql ORM</title>
       <link>https://xaoirse.github.io/posts/go-graphql-orm/</link>
