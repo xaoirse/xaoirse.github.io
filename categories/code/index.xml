@@ -6,23 +6,13 @@
     <description>Recent content in Code on Million Lines Of Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xaoirse.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://xaoirse.github.io/categories/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Graphql ORM</title>
-      <link>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <link>https://xaoirse.github.io/posts/go-graphql-orm/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm/</guid>
-      <description>سلام. پروژه XGO ترکیب چندتا چیز با هم هست که یه وب اپ ساده و سر راست باشه و خواستم یه جورایی شبیه به Django باشه. یعنی بیاین مدلاتونو تعریف کنید و روتینگ کنید و توابعتونو بنویسید و تمام! حالا یه وب اپلیکیشن تقریبا کامل دارید.حالا کدتونو هر کجا خواستید اجرا میکنید
-به دلایلی مثل علاقه به زبون GO و اینکه یه فایل باینری از پروژم داشته باشم که هرجا خواستم اجراش کنم دنبال یه چیزی شبیهش تو فرمورک های Go میگشتم.</description>
-    </item>
-    
-    <item>
-      <title>Delete Me</title>
-      <link>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm-copy-1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://xaoirse.github.io/posts/2020-09-15-go-graphql-orm-copy-1/</guid>
+      <guid>https://xaoirse.github.io/posts/go-graphql-orm/</guid>
       <description>سلام. پروژه XGO ترکیب چندتا چیز با هم هست که یه وب اپ ساده و سر راست باشه و خواستم یه جورایی شبیه به Django باشه. یعنی بیاین مدلاتونو تعریف کنید و روتینگ کنید و توابعتونو بنویسید و تمام! حالا یه وب اپلیکیشن تقریبا کامل دارید.حالا کدتونو هر کجا خواستید اجرا میکنید
 به دلایلی مثل علاقه به زبون GO و اینکه یه فایل باینری از پروژم داشته باشم که هرجا خواستم اجراش کنم دنبال یه چیزی شبیهش تو فرمورک های Go میگشتم.</description>
     </item>
