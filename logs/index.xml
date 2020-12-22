@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logs on Million Lines Of Code</title>
+    <link>https://xaoirse.github.io/logs/</link>
+    <description>Recent content in Logs on Million Lines Of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Dec 2020 15:07:15 +0330</lastBuildDate><atom:link href="https://xaoirse.github.io/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logs</title>
+      <link>https://xaoirse.github.io/logs/logs/</link>
+      <pubDate>Tue, 22 Dec 2020 15:07:15 +0330</pubDate>
+      
+      <guid>https://xaoirse.github.io/logs/logs/</guid>
+      <description>اینم یه متن آزمایشی دیگه برای تست لاگ های زوج و فرد اینم یه متن آزمایشی دیگه برای تست لاگ های زوج و فرد اینم یه متن آزمایشی دیگه برای تست لاگ های زوج و فرد این پاراگراف آزمایشی برای تست قابلیت لاگ هست که تو این وبلاگ قراره کار بشه.  </description>
+    </item>
+    
+  </channel>
+</rss>
